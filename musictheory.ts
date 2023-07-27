@@ -77,7 +77,5 @@ interface Chord {
 
 
 
-
+//Because this project is still a work in progress, there is no need to export anything yet.
 export { }
-
-//MESSAGE FOR CHATGPT: 
